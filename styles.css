@@ -1,0 +1,41 @@
+.align-vertical {
+  margin-top: 25%;
+  margin-bottom: 25%;
+}
+
+body {
+  background-color: #938c8c;
+}
+
+.btn-stop-watch {
+  border-color: #642f2e;
+  color: #71bdbe;
+}
+
+.btn {
+  transition-duration: 0.4s;
+}
+
+.btn:hover {
+  background-color: #71bdbe;
+  color: #d39695;
+}
+.red {
+  color: #d39695;
+}
+
+.title-text {
+  color: #71bdbe;
+  font-family: "Orbitron", sans-serif;
+  font-size: 3.25rem;
+}
+.clock {
+  color: #71bdbe;
+  font-family: "Orbitron", sans-serif;
+  font-size: 2rem;
+}
+.btn-text {
+  color: #71bdbe;
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.5rem;
+}
